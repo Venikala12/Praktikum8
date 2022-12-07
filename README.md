@@ -94,4 +94,4 @@ dataMhs.hapus()
 dataMhs.tampilkan()
 ```
 #### Tampilan Program Ketika Dijalankan
-![gambar](pr8/8.1.png)
+![gambar](ss/ss8.1.png)

@@ -1,6 +1,9 @@
- # Praktikum 8 
-## Tugas Praktikum
-### Daftar Nilai Mahasiswa menggunakan *class*
+# Praktikum 8 
+## Nama  : Veronika Natalia Kala
+## NIM   : 312210690
+## Kelas : TI.22.A.2
+### Tugas Praktikum
+#### Daftar Nilai Mahasiswa menggunakan *class*
 - Pertama, kita membuat class induk terlebih dahulu
 ```
 class Data():

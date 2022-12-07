@@ -1,13 +1,5 @@
  # Praktikum 8 
 ## Tugas Praktikum
-#### Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah class untuk menampilkan daftar nilai mahasiswa, dengan ketentuan:
-- Method **tambah()** untuk menambahkan data
-- Method **tampilkan()** untuk menampilkan data
-- Method **hapus(nama)** untuk menghapus data bedasarkan nama
-- Method **ubah(nama)** untuk mengubah data bedasarkan nama
-- Buat diagram class, flowchart dan penjelasan programnya pada README.md
-- Commit dan push repository ke Github
-###### ^^ Terima Kasih ^^
 ### Daftar Nilai Mahasiswa menggunakan *class*
 - Pertama, kita membuat class induk terlebih dahulu
 ```
